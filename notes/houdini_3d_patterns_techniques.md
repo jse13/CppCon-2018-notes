@@ -1,1 +1,0 @@
-# Patterns & Techniques used in the Houdini 3D Graphics Application
