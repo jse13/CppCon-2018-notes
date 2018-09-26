@@ -8,3 +8,8 @@
 ### Clang-from-the-future
 - Preprocessor for a proper compiler
 - C++17 ➡ C++11
+- CFTF works as a black-box precompilation step
+
+#### Components
+- CLI
+    - `cftf <filename> -frontend-compiler=/path/to/compiler`
